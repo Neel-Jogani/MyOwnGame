@@ -1,2 +1,2 @@
 # MyOwnGame
-My own game
+Flappy Bird
